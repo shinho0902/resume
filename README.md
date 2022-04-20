@@ -23,9 +23,10 @@ JS, HTML, CSS, PHP <br>
 (프로젝트 제목마다 링크 달아서 상세 연결 예정)
 
 - 한국어 가짜 뉴스 탐지 <br>
-1. tf-idf + cosine similarity
+1. tf-idf + cosine similarity <br>
 사용된 스킬: Python(pandas,konlpy,sklearn)
-2. koBERT
+<br>
+2. koBERT <br>
 사용된 스킬: Python(pandas,numpy,torch,transformers)
 
 - 경기도민 라이프스타일 분석<br>
