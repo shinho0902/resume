@@ -19,6 +19,20 @@ Python, R, mysql <br>
 JS, HTML, CSS, PHP <br>
 
 
+## 프로젝트
+- 경기도민 라이프스타일 분석<br>
+내용: 주민등록인구, 유동인구, 카드결제, SNS 등 데이터분석
+사용된 스킬: Python(pandas,numpy,matplotlib,wordcloud,Okt,gensim,pyLDAvis)
+
+- 노인 놀이터 입지선정 <br>
+사용된 스킬: Python(pandas,beautifulsoup), R, QGIS
+
+- 여행 예약 서비스 : DB 및 웹페이지 구현 <br>
+사용된 스킬: Apache, mysql, PHP, HTML, JS
+
+- 교육 사이트 : 웹페이지 구현 <br>
+사용된 스킬: JS, HTML, CSS, Bootstrap
+
 
 
 ## 기타
