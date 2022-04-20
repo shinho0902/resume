@@ -31,8 +31,8 @@ JS, HTML, CSS, PHP <br>
 <br>
 
 - 경기도민 라이프스타일 분석<br>
-주민등록인구, 유동인구, 카드결제 데이터를 통해 패턴을 분석 <br>
-SNS 데이터를 통해 관심사를 분석<br>
+주민등록인구, 유동인구 데이터를 통해 일상활동을 분석 <br>
+카드결제, SNS 데이터를 통해 관심사를 분석<br>
 스킬: Python(pandas,numpy,matplotlib,wordcloud,konlpy,gensim,pyLDAvis), Tableau, QGIS
 
 <br>
