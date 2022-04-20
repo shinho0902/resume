@@ -26,7 +26,7 @@ JS, HTML, CSS, PHP <br>
 ## 프로젝트
 (프로젝트 제목마다 링크 달아서 상세 연결 예정)
 
-- 한국어 가짜 뉴스 탐지 <br>
+- 한국어 가짜 뉴스 탐지 (NLP, Classification) <br>
 1. TF-IDF + Cosine Similarity <br>
 스킬: Python(pandas, konlpy, sklearn)
 2. koBERT <br>
@@ -34,25 +34,25 @@ JS, HTML, CSS, PHP <br>
 
 <br>
 
-- 경기도민 라이프스타일 분석<br>
+- <b>경기도민 라이프스타일 분석 (Visualization, NLP, GIS)</b> <br>
 주민등록인구, 유동인구 데이터를 통해 일상활동을 분석 <br>
 카드결제, SNS 데이터를 통해 관심사를 분석<br>
 스킬: Python(pandas, numpy, matplotlib, wordcloud, konlpy, gensim, pyLDAvis), Tableau, QGIS
 
 <br>
 
-- 노인 놀이터 입지선정 <br>
+- 노인 놀이터 입지선정 (GIS, Clustering) <br>
 스킬: Python(pandas, sklearn, scipy, matplotlib, folium, beautifulsoup), R, QGIS
 
 <br>
 
-- 여행 예약 서비스
+- 여행 예약 서비스 (DB,Web)
 DB 및 웹페이지 구현 <br>
 스킬: Apache, mysql, PHP, HTML, JS
 
 <br>
 
-- 교육 사이트
+- 교육 사이트 (Web)
 웹페이지 구현 <br>
 스킬: JS, HTML, CSS, Bootstrap
 
