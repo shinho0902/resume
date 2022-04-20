@@ -28,21 +28,21 @@ JS, HTML, CSS, PHP <br>
 
 - 한국어 가짜 뉴스 탐지 <br>
 1. TF-IDF + Cosine Similarity <br>
-스킬: Python(pandas,konlpy,sklearn)
+스킬: Python(pandas, konlpy, sklearn)
 2. koBERT <br>
-스킬: Python(pandas,numpy,torch,transformers)
+스킬: Python(pandas, numpy, torch, transformers)
 
 <br>
 
 - 경기도민 라이프스타일 분석<br>
 주민등록인구, 유동인구 데이터를 통해 일상활동을 분석 <br>
 카드결제, SNS 데이터를 통해 관심사를 분석<br>
-스킬: Python(pandas,numpy,matplotlib,wordcloud,konlpy,gensim,pyLDAvis), Tableau, QGIS
+스킬: Python(pandas, numpy, matplotlib, wordcloud, konlpy, gensim, pyLDAvis), Tableau, QGIS
 
 <br>
 
 - 노인 놀이터 입지선정 <br>
-스킬: Python(pandas,sklearn,scipy,matplotlib,folium,beautifulsoup), R, QGIS
+스킬: Python(pandas, sklearn, scipy, matplotlib, folium, beautifulsoup), R, QGIS
 
 <br>
 
