@@ -20,12 +20,20 @@ JS, HTML, CSS, PHP <br>
 
 
 ## 프로젝트
+(프로젝트 제목마다 링크 달아서 상세 연결 예정)
+
+- 한국어 가짜 뉴스 탐지 <br>
+1. tf-idf + cosine similarity
+사용된 스킬: Python(pandas,konlpy,sklearn)
+2. koBERT
+사용된 스킬: Python(pandas,numpy,torch,transformers)
+
 - 경기도민 라이프스타일 분석<br>
-내용: 주민등록인구, 유동인구, 카드결제, SNS 등 데이터분석
-사용된 스킬: Python(pandas,numpy,matplotlib,wordcloud,Okt,gensim,pyLDAvis)
+내용: 주민등록인구, 유동인구, 카드결제, SNS 등 데이터분석 및 시각화<br>
+사용된 스킬: Python(pandas,numpy,matplotlib,wordcloud,konlpy,gensim,pyLDAvis), Tableau, QGIS
 
 - 노인 놀이터 입지선정 <br>
-사용된 스킬: Python(pandas,beautifulsoup), R, QGIS
+사용된 스킬: Python(pandas,sklearn,scipy,matplotlib,folium,beautifulsoup), R, QGIS
 
 - 여행 예약 서비스 : DB 및 웹페이지 구현 <br>
 사용된 스킬: Apache, mysql, PHP, HTML, JS
