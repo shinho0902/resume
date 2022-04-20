@@ -46,7 +46,7 @@ JS, HTML, CSS, PHP <br>
 
 <br>
 
-- <b>여행 예약 서비스 (DB,Web) </b> <br>
+- <b>여행 예약 서비스 (DB, Web) </b> <br>
 DB 및 웹페이지 구현 <br>
 스킬: Apache, mysql, PHP, HTML, JS
 
