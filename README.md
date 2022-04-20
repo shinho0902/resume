@@ -41,7 +41,7 @@ JS, HTML, CSS, PHP <br>
 
 <br>
 
-- <b>노인 놀이터 입지선정 (GIS, Clustering) </b> <br>
+- <b>노인 놀이터 입지선정 (Crawling, GIS, Clustering) </b> <br>
 스킬: Python(pandas, sklearn, scipy, matplotlib, folium, beautifulsoup), R, QGIS
 
 <br>
