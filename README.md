@@ -26,7 +26,7 @@ JS, HTML, CSS, PHP <br>
 ## 프로젝트
 (프로젝트 제목마다 링크 달아서 상세 연결 예정)
 
-- <b>한국어 가짜 뉴스 탐지 (NLP, Classification) </b> <br>
+- <b>한국어 가짜 뉴스 탐지 (NLP, Classification) </b> - 진행중 <br>
 1. TF-IDF + Cosine Similarity <br>
 스킬: Python(pandas, konlpy, sklearn)
 2. koBERT <br>
